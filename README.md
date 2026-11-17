@@ -1,5 +1,7 @@
 # NetSec Study — Ôn tập An ninh mạng
 
+🌐 **Bản chạy trực tuyến:** <https://nganh205.github.io/netsec-study/>
+
 Web ôn tập **187 câu hỏi trắc nghiệm An ninh mạng** (18 chủ đề), chạy hoàn toàn trên trình duyệt, không cần máy chủ, hoạt động offline sau lần tải đầu tiên.
 
 ## Tính năng
@@ -51,6 +53,10 @@ python3 -m http.server 8080
 ```
 
 ## Triển khai GitHub Pages
+
+Trang đã được triển khai tại <https://nganh205.github.io/netsec-study/> (nhánh `main`, thư mục `/ (root)`).
+
+Nếu cần triển khai lại từ đầu:
 
 1. Đẩy toàn bộ nội dung thư mục này lên nhánh `main` của repository.
 2. Vào **Settings → Pages**, chọn **Deploy from a branch** → nhánh `main` → thư mục `/ (root)`.
